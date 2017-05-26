@@ -254,7 +254,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [clint](https://github.com/kennethreitz/clint) - Python Command-line Application Tools.
     * [colorama](https://pypi.python.org/pypi/colorama) - Cross-platform colored terminal text.
     * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
-    * [Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line
+    * ~~[Gooey](https://github.com/chriskiehl/Gooey) - Turn command line programs into a full GUI application with one line~~ 依赖wxpython，不支持Python3
     * [Python-Fire](https://github.com/google/python-fire) - A library for creating command line interfaces (CLIs) from absolutely any Python object.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A Library for building powerful interactive command lines.
 * Productivity Tools
